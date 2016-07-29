@@ -12,4 +12,5 @@ return array(
   'rhModule' => 'Recursos Humanos',
 
  	'setup' => 'Configuración',
+ 	'menuBug' => 'Bug'
 );
